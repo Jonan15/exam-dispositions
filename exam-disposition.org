@@ -1,0 +1,47 @@
+* Disposition
+
+** 1) Convex hull
+
+
+** 2) Line segment intersection
+
+** 3) Triangulation
+ - Intro: Art gallery guarding
+ - Algorithm
+   - y-monotone polygons
+   - Triangulation
+   - Dual graph/Camera placement
+
+** 4) Randomized linear programming
+ - Intro: Molding, simplex vs. 2D linear programming
+ - Proof: Incrementally adding constraints is correct, 2 cases
+ - Proof: 2D randomized LP is expected O(n)
+
+** 5) Kd-trees
+
+** 6) Range-trees
+
+** 7) Point location via trapezoidal maps
+ - Intro: why do we want point location?
+ - Algorithm
+ - Query time
+ - Space complexity
+ - Construction time
+
+** 8) Voronoi diagrams
+ - Intro: The post office problem. One definition = intersection of halfplanes
+ - Short proof: Size of Voronoi diagram is linear in size of the point set
+ - Solution idea: sweepline
+   - Beachline
+   - Site events and circle events is sufficient
+- Algorithm
+- Construction time and space complexity
+
+** 9) Interval trees
+
+** 10) Priority search trees
+
+** 11) Segment trees
+
+** 12) Binary space partitions
+
